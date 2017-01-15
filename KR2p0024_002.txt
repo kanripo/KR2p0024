@@ -8,7 +8,7 @@
 #+PROPERTY: JUAN 2
 
 ** 二
-<pb:KR2p0024_CHANT_002-1a>¶
+<pb:KR2p0024_GD-ch_002-1a>¶
 上不以其道，¶
 民之從之也難。¶
 是以民可¶
