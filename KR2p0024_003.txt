@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成之聞之
 #+DATE: 2016-05-31 17:12:50
-#+PROPERTY: CH_ID CH8x4420
+#+PROPERTY: CH_ID KR2p0024
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
 #+PROPERTY: WITNESS chant
 #+PROPERTY: JUAN 3
 
 ** 三
-<pb:CH8x4420_CHANT_003-1a>¶
+<pb:KR2p0024_CHANT_003-1a>¶
 故君子所復之不多，¶
 所求之不遠，¶
 察反諸己而可以¶

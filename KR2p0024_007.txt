@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成之聞之
 #+DATE: 2016-05-31 17:12:50
-#+PROPERTY: CH_ID CH8x4420
+#+PROPERTY: CH_ID CH8x4422
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
 #+PROPERTY: WITNESS chant
 #+PROPERTY: JUAN 7
 
 ** 七
-<pb:CH8x4420_CHANT_007-1a>¶
+<pb:KR2p0024_CHANT_007-1a>¶
 天降大常，¶
 以理人倫。¶
 制為君臣之義，¶
@@ -23,7 +23,7 @@
 此言也，¶
 言余之此而宅於天心也。¶
 
-<pb:CH8x4420_CHANT_007-2a>¶
+<pb:KR2p0024_CHANT_007-2a>¶
 是故¶
 
 

@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成之聞之
 #+DATE: 2016-05-31 17:12:50
-#+PROPERTY: CH_ID CH8x4420
+#+PROPERTY: CH_ID KR2p0024
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
 #+PROPERTY: WITNESS chant
 #+PROPERTY: JUAN 4
 
 ** 四
-<pb:CH8x4420_CHANT_004-1a>¶
+<pb:KR2p0024_CHANT_004-1a>¶
 是以知而求之不疾，¶
 其去人弗遠矣。¶
 勇而行之不果，¶
