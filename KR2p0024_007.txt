@@ -1,14 +1,18 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成之聞之
-#+DATE: 2016-05-31 17:12:50
-#+PROPERTY: CH_ID CH8x4422
+#+DATE: 2016-08-10 10:16:36
+#+PROPERTY: ID KR2p0024
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 6
+#+PROPERTY: JUAN 7
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4420
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 7
 
 ** 七
 <pb:KR2p0024_GD-ch_007-1a>¶
+¶
 天降大常，¶
 以理人倫。¶
 制為君臣之義，¶
@@ -24,22 +28,25 @@
 言余之此而宅於天心也。¶
 
 <pb:KR2p0024_GD-ch_007-2a>¶
+¶
 是故¶
-
-
-唯君子，¶
-道可近求，¶
+唯君子，道可近求，¶
 而不可遠措也。¶
-昔者君子有言曰「聖人天德」何？¶
+昔者君子有言曰
+「聖人天德」
+何？¶
 言慎求之於己，¶
 而可以至順天常矣。¶
+
+# src: GUODIAN CHENGZHIWENZHI 11.24. SLIPS 38-40; tr. Marco Caboara, Erlangen, IKGF, 2012
 《康誥》曰：¶
 「不還大戛，¶
 文王作罰，¶
-刑茲亡赦」何？¶
+刑茲亡赦」
+何？¶
 此言也，¶
-言不敦大常者，¶
+言
+不敦大常者，¶
 文王之刑莫厚焉。¶
-是¶
-故君子慎六位以祀天常。¶
-
+是¶故君子慎六位
+以祀天常。¶

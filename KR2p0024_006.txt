@@ -1,19 +1,29 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成之聞之
-#+DATE: 2016-05-31 17:12:50
-#+PROPERTY: CH_ID KR2p0024
+#+DATE: 2016-08-10 10:16:36
+#+PROPERTY: ID KR2p0024
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 5
+#+PROPERTY: JUAN 7
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4420
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 6
 
 ** 六
-<pb:KR2p0024_GD-ch_006-1a>¶
-成之聞之曰：¶
-古之用民者，¶
-求之於己為恒。¶
-行不信則命不從，¶
-信不著則言不樂。¶
+
+¶成之聞之曰：¶
+古之用民者，
+求之
+於己
+為恒。行
+不
+信則
+命不從，¶
+信不著則
+
+# src: GUODIAN CHENGZHIWENZHI 11.23. SLIPS 37-38; tr. Marco Caboara, Erlangen, IKGF, 2012
+言不樂。¶
 民不從上之命，¶
 不信其言，¶
 而能念德者，¶
@@ -23,4 +33,5 @@
 身備服善以先之，¶
 敬慎以守之，¶
 其所在者內矣。¶
+
 

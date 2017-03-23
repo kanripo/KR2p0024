@@ -1,14 +1,18 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成之聞之
-#+DATE: 2016-05-31 17:12:50
-#+PROPERTY: CH_ID KR2p0024
+#+DATE: 2016-08-10 10:16:36
+#+PROPERTY: ID KR2p0024
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 4
+#+PROPERTY: JUAN 7
 #+PROPERTY: CAT 8,竹簡帛書II
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH8x4420
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 5
 
 ** 五
 <pb:KR2p0024_GD-ch_005-1a>¶
+¶
 聖人之性與中人之性，¶
 其生而未有非志。¶
 次於此也，¶
@@ -33,4 +37,5 @@
 何？¶
 言寅之也。¶
 是以君子貴寅¶
+
 
